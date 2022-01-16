@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="wlv-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<wlv id="smw" url="https://github.com/dh-trier/wlv/smw">
+  <metadata>
+    <title>Sammlung M. W. (SMW)</title>
+    <editor ref="wikidata:Q57917455">Mike Mustermann</editor>
+    <institution url="https://kompetenzzentrum.uni-trier.de">Trier Center for Digital Humanities</institution>
+    <address ref="wikidata:Q3138">Trier</address>
+    <date>2020</date>
+    <licence licenceScope="metadata" licenceAbbr="CC0" url="https://creativecommons.org/publicdomain/zero/1.0/deed.en">Public Domain Dedication</licence>
+    <licence licenceScope="textual">public domain</licence>
+    <licence licenceScope="visual">to be determined.</licence>
+    <curators>
+      <curator id="mm" ref="wikidata:Q57917455">Maria Musterfrau</curator>
+    </curators>
+  </metadata>
+  <labels>
+    <label curatorID="#mm" labelType="Gutsetikett" curationDate="2020-08-29" id="smw-0001">
+      <labelPart partType="front" partNum="1">
+        <physical sizeH="110" sizeV="69" shape="other" material="paper" printingTechnique="litho+type"/>
+        <visual>
+          <background backgroundStyle="color">white</background>
+          <frame frameStyle="pattern" frameColor="light blue" frameType="outer"/>
+          <frame frameStyle="floral" frameColor="grey" frameType="outer"/>
+          <figure figureType="realistic" figureNum="1" figurePosition="upper-center">Grapes</figure>
+        </visual>
+        <textual>
+          <wineOrigin wineOriginType="vineyard (Lage)" wineOriginNorm="Dhron" url="https://www.riesling.de/de/lage/dhroner-hofberger/53_184.html">Thronhofberger</wineOrigin>
+          <agent agentRole="distributor/importer/exporter">E. F. Cronenbold</agent>
+          <location locationRole="distributor/importer/exporter" locationType="locality" ref="wikidata:Q3138">Trier</location>
+        </textual>
+      </labelPart>
+      <provenance>
+        <dating notBefore="1850" notAfter="1900" certainty="low" curatorID="#cs"/>
+      </provenance>
+    </label>
+  </labels>
+</wlv>

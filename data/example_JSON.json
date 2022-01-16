@@ -1,0 +1,22 @@
+{
+  "links": {
+    "self": "https://www.rijksmuseum.nl/api/nl/collection/SK-C-5",
+    "web": "https://www.rijksmuseum.nl/nl/collectie/SK-C-5"
+  },
+  "id": "nl-SK-C-5",
+  "objectNumber": "SK-C-5",
+  "title": "Schutters van wijk II onder leiding van kapitein Frans Banninck Cocq, bekend als de ‘Nachtwacht’",
+  "hasImage": true,
+  "principalOrFirstMaker": "Rembrandt Harmensz. van Rijn",
+  "longTitle": "Schutters van wijk II onder leiding van kapitein Frans Banninck Cocq, bekend als de ‘Nachtwacht’, Rembrandt Harmensz. van Rijn, 1642",
+  "showImage": true,
+  "permitDownload": true,
+  "webImage": {
+    "guid": "3ae88fe0-021c-41ae-a4ce-cc70b7bc6295",
+    "offsetPercentageX": 50,
+    "offsetPercentageY": 100,
+    "width": 2500,
+    "height": 2034,
+    "url": "http://lh6.ggpht.com/ZYWwML8mVFonXzbmg2rQBulNuCSr3rAaf5ppNcUc2Id8qXqudDL1NSYxaqjEXyDLSbeNFzOHRu0H7rbIws0Js4d7s_M=s0"
+  }
+}

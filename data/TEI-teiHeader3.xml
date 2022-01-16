@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="allais_cap" xml:lang="fr">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title ref="viaf:123456789">Le Captain Cap : édition ELTeC</title>
+				<author ref="viaf:302147306">
+					<persName>
+						<forename>Alphone</forename>
+						<surname>Allais</surname>
+					</persName>
+				</author>
+				<editor>
+					<persName>
+						<forename>Christof</forename>
+						<surname>Schöch</surname>
+					</persName>
+				</editor>
+				<respStmt>
+					<resp>Encoding</resp>
+					<persName>
+						<forename>Pia</forename>
+						<surname>Geißel</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>Version 1.0, November 2020</edition>
+			</editionStmt>
+			<extent>
+				<measure unit="words">41424</measure>
+				<measure unit="pages">124</measure>
+			</extent>
+			<publicationStmt>
+				<publisher>COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+				<distributor>Zenodo.org</distributor>
+				<date when="2020-11-14" />
+				<idno type="doi">10.5281/zenodo.4271445</idno>
+				<availability>
+					<p>Creative Commons Attribution 4.0 International</p>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title>European Literary Text Collection</title>
+				<idno type="doi">10.5281/zenodo.4271467</idno>
+				<respStmt>
+					<resp>Editors</resp>
+					<persName>
+						<forename>Lou</forename>
+						<surname>Burnard</surname>
+					</persName>
+					<persName>
+						<forename>Carolin</forename>
+						<surname>Odebrecht</surname>
+					</persName>
+				</respStmt>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl type="digitalSource">
+					<author>Alphonse Allais</author>
+					<title>Le Captain Cap</title>
+					<pubPlace>Paris</pubPlace>
+					<publisher>Felix Juven</publisher>
+					<date>1902</date>
+				</bibl>
+				<bibl type="firstEdition">
+					<author>Alphonse Allais</author>
+					<title>Le Captain Cap</title>
+					<publisher>Felix Juven</publisher>
+					<pubPlace>Paris</pubPlace>
+					<date>1902</date>
+					<ref target="https://gallica.bnf.fr/ark:/12148/bpt6k165801v" />
+				</bibl>
+				<listPerson>
+					<person>
+						<persName>Capitain Cap</persName>
+					</person>
+					<person>
+						<persName>Capitain Cap</persName>
+					</person>
+					<person>
+						<persName>Paul Fabre</persName>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc n="eltec-1">
+			<projectDesc>
+				<p>The ELTeC project aims to provide sets of 100 novels encoded in XML-TEI for at least 10 European languages.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>The texts were selected according to the corpus composition principles of ELTeC.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>The encoding of this resource follows the schema defined as ELTeC level 1 encoding.</p>
+				<correction>
+					<p>Obvious errors in spelling were corrected and marked with 																								
+						<gi>corr</gi>.																				
+					</p>
+				</correction>
+				<normalization>
+					<p>Accentuation was tacitly normalized.</p>
+				</normalization>
+				<hyphenation>
+					<p>In-paragraph line breaks have not been preserved and hyphens tacitly removed.</p>
+				</hyphenation>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="fr">French</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="literary-ontology">
+					<term type="narrative-perspective">homodiegetic</term>
+					<term type="setting">urban</term>
+					<term type="time">1890s</term>
+				</keywords>
+			</textClass>
+			<textDesc>
+				<channel mode="w">Written</channel>
+				<constitution></constitution>
+				<derivation></derivation>
+				<domain>Novel</domain>
+				<factuality>Fictional</factuality>
+				<interaction></interaction>
+				<preparedness></preparedness>
+				<purpose>Entertainment</purpose>
+			</textDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2020-12-18" who="#cs">Adapted teiHeader for demo purporses</change>
+			<change when="2020-11-14" who="#lb">Converted by checkUp script for new release</change>
+			<change when="2020-11-14" who="#lb">Checked by checkup script</change>
+			<change when="2019-11-04" who="#lb">Checked by releaseChecker script</change>
+			<change when="2019-06-15" who="#cs">Conversion to ELTeC level-1)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<p>[Textinhalt]</p>
+			</div>
+		</body>
+	</text>
+</TEI>

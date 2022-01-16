@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="book">Harry Potter and the Sorcerer's Stone</title>
+        <author>Rowling, Joan K.</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>For internal use only.</p>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter">
+        <head>
+          <s>
+            <w pos="NN1" lemma="chapter">CHAPTER</w>
+            <w pos="CRD" lemma="eleven">ELEVEN</w>
+            <w pos="PUN" lemma="-">-</w>
+            <w pos="AJ0" lemma="quidditch">QUIDDITCH</w>
+          </s>
+        </head>
+        <p>
+          <s>
+            <w pos="CJS" lemma="as">As</w>
+            <w pos="PNP" lemma="they">they</w>
+            <w pos="VVD" lemma="enter">entered</w>
+            <w pos="NP0" lemma="november">November</w>
+            <pc pos="PUN" lemma=",">,</pc>
+            <w pos="AT0" lemma="the">the</w>
+            <w pos="NN1" lemma="weather">weather</w>
+            <w pos="VVD" lemma="turn">turned</w>
+            <w pos="AV0" lemma="very">very</w>
+            <w pos="AJ0" lemma="cold">cold</w>
+            <pc pos="SENT" lemma=".">.</pc>
+          </s>
+          <s>
+            <w pos="AT0" lemma="the">The</w>
+            <w pos="NN2" lemma="mountain">mountains</w>
+            <w pos="PRP" lemma="around">around</w>
+            <w pos="AT0" lemma="the">the</w>
+            <w pos="NN1" lemma="school">school</w>
+            <w pos="VVD" lemma="become">became</w>
+            <w pos="AJ0" lemma="icy">icy</w>
+            <w pos="NN1" lemma="gray">gray</w>
+            <w pos="CJC" lemma="and">and</w>
+            <w pos="AT0" lemma="the">the</w>
+            <w pos="NN1" lemma="lake">lake</w>
+            <w pos="PRP" lemma="like">like</w>
+            <w pos="AJ0" lemma="chilled">chilled</w>
+            <w pos="NN1" lemma="steel">steel</w>
+            <pc pos="SENT" lemma=".">.</pc>
+          </s>
+        </p>
+        <p>
+          <s>
+            <said who="Snape">
+              <pc pos="PUQ" lemma="PUQ">"</pc>
+              <w pos="NN1" lemma="library">Library</w>
+              <w pos="NN2" lemma="book">books</w>
+              <w pos="VBB" lemma="is">are</w>
+              <w pos="XX0" lemma="not">not</w>
+              <w pos="TO0" lemma="to">to</w>
+              <w pos="VBI" lemma="be">be</w>
+              <w pos="VNN" lemma="take">taken</w>
+              <w pos="PRP" lemma="outside">outside</w>
+              <w pos="AT0" lemma="the">the</w>
+              <w pos="NN1" lemma="school">school</w>
+              <pc pos="PUN" lemma=",">,</pc>
+              <pc pos="PUQ" lemma="PUQ">"</pc>
+            </said>
+            <w pos="VVD" lemma="say">said</w>
+            <w pos="NP0" lemma="Snape">Snape</w>
+            <pc pos="SENT" lemma=".">.</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

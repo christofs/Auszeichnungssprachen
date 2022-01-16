@@ -1,0 +1,48 @@
+Die '''Universität Trier''' ist eine mittelgroße staatliche [[Universität]] in der [[Rheinland-Pfalz|rheinland-pfälzischen]] [[Stadt]] [[Trier]] an der [[Mosel]]. Gegründet im Jahr 1473 und 1798 unter französischer Besatzung nach 325-jährigem Bestehen geschlossen, wurde sie 1970 neu eröffnet. Etwa 12.500 Studierende und insgesamt rund 2.000 Beschäftigte lernen, arbeiten und forschen auf dem Campus in Höhenlage über der Stadt. Im Jahr 2013 wurde das Universitätsgelände vom [[Bund Deutscher Landschaftsarchitekten]] als einer von 100 besonderen Orten in Deutschland ausgezeichnet.
+
+== Geschichte ==
+
+=== Erstgründung ===
+
+Der Entschluss zur Gründung der Universität Trier dürfte im Jahr 1450 gefasst worden sein (sogenanntes „Heiliges Jahr“), als der [[Kurtrier|Trierer Kurfürst-Erzbischof]] [[Jakob I. von Sierck]] nach Rom pilgerte und mit [[Nikolaus von Kues]] zusammentraf, der dort als [[Kurienkardinal]] tätig war und dem Gedanken einer Universitätsgründung in seiner Heimatregion vermutlich aufgeschlossen gegenüberstand. Papst [[Nikolaus V. (Papst)|Nikolaus V.]] erlaubte daraufhin am 2. Februar 1455 dem Trierer Erzbischof die Gründung einer Universität. Jakob von Sierck konnte jedoch aus finanziellen Gründen das Vorhaben nicht ausführen und starb auch kurze Zeit nach Erlass der entsprechenden päpstlichen Bullen. Sein Nachfolger [[Johann II. von Baden]] war in diverse [[Fehde]]n verwickelt und hatte dadurch weder Geld noch Zeit, sich um eine Universitätsgründung in Trier zu kümmern.
+
+== Lage ==
+
+Die Universität liegt auf einem Plateau rund 150 Höhenmeter oberhalb der Innenstadt zwischen den Trierer Stadtteilen [[Trier-Kürenz|Kürenz]], [[Trier-Tarforst|Tarforst]] und [[Trier-Olewig|Olewig]]. Zum Universitätsgelände des Campus I gehören ausgedehnte Park- und Grünanlagen mit Spazierwegen, Teichen, landschaftlichen Skulpturen und Plastiken. Die Universität befindet sich in direkter Nachbarschaft zum Gelände der Trierer [[Landesgartenschau]] 2004.
+
+=== Studierendenzahlen ===
+
+Nachdem die Zahl der Studierenden an der Universität sich bis WS 2011/12 in den letzten Jahren nur langsam erhöht hatte, ist seither ein leichter Rückgang zu verzeichnen. 
+
+{| class="wikitable"
+! Semester
+! Studierende
+|-
+| WS 2013/14 || align="right" | 14.909
+|-
+| WS 2014/15 || align="right" | 14.484
+|-
+| WS 2015/16 || align="right" | 13.751
+|-
+| WS 2016/17 || align="right" | 13.331
+|-
+| WS 2017/18 || align="right" | 12.827
+|-
+| WS 2018/19 || align="right" | 12.594
+
+|}
+
+== Weblinks ==
+{{Commonscat|University of Trier}}
+* [http://www.uni-trier.de/ Offizielle Internetseiten]
+* [http://www.uni-trier.de/fileadmin/profil/Universitaet_in_Zahlen/UIZ2010.pdf Universität in Zahlen 2010] (PDF-Datei; 1,51 MB)
+* [http://www.studiwerk.de/ Website Studierendenwerk Trier]
+* [http://www.landeshauptarchiv.de/index.php?id=359 Der 2. Februar 1455. Die Gründung der Trierer Universität.] in: [[Landeshauptarchiv Koblenz]]
+
+{{SORTIERUNG:Universitat Trier}}
+[[Kategorie:Universität in Deutschland|Trier]]
+[[Kategorie:Hochschule in Rheinland-Pfalz|Trier]]
+[[Kategorie:Universität Trier| ]]
+[[Kategorie:Gegründet 1473]]
+[[Kategorie:Gegründet 1970]]
+[[Kategorie:Organisation (Trier)]]

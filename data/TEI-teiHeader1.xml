@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="allais_cap">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Le Captain Cap : édition ELTeC</title>
+				<author>Alphonse Allais (1829-1871)</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>This document is published by 'Distant Reading for European Literary History' in 2020.</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>The text is based on the 1902 edition of the novel available at Gallica.</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<p>[Textinhalt]</p>
+			</div>
+		</body>
+	</text>
+</TEI>

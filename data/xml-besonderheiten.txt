@@ -1,0 +1,15 @@
+
+<?Anweisung?>
+
+<!-- Kommentar -->
+
+Ich k&ouml;nnte glauben, da&szlig; Sie ...
+
+<pb></pb> = <pb/>
+
+&amp;
+
+&lt;
+
+
+```

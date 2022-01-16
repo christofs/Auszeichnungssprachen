@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Trier Center for Digital Humanities</name>
+    <description>Forschungszentrum für digitale Geisteswissenschaften an der Universität Trier.</description>
+    <Point>
+      <coordinates>49.7744575,6.684948</coordinates>
+    </Point>
+  </Placemark>
+</kml>

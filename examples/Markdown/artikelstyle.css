@@ -1,0 +1,20 @@
+
+body {
+  padding: 0 1em ;
+  font-family: sans-serif ;
+  color: #4a4d4f ;
+  line-height: 140%; 
+  }
+
+
+h1 {
+  color: darkblue ;
+  font-size: 160%;
+  margin: 3ex 0 2ex 0;
+  }
+
+h2 {
+  color: darkgreen ;
+  font-size: 120%;
+  margin: 2ex 0 1ex 0;
+  }

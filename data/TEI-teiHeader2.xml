@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="allais_cap">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title ref="wikidata:Q1234567">Le Captain Cap : édition ELTeC</title>
+				<author ref="wikidata:Q7654321">
+					<name>
+						<forename>Alphonse</forename>
+						<surname>Allais</surname>
+					</name>
+				</author>
+				<respStmt>
+					<resp>Text encoding</resp>
+					<name>
+						<forename>Christof</forename>
+						<surname>Schöch</surname>
+					</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>"Distant Reading for European Literary History" (CA16204)</publisher>
+				<date when="2020-11-14" />
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="digitalSource">
+					<title>Le Captain Cap</title>
+					<author>Alphonse Allais</author>
+					<publisher>Felix Juven</publisher>
+					<date>1902</date>
+					<ref target="https://gallica.bnf.fr/ark:/12148/bpt6k165801v" />
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<p>[Textinhalt]</p>
+			</div>
+		</body>
+	</text>
+</TEI>

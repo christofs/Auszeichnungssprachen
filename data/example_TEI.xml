@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../Schemas/eltec-x.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-x.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xml:id="Bernardin_Paul" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title ref="bgrf:1">Paul et Virginie:MiMoText edition</title>
+        <author ref="viaf:9966915;wikidata:Q3261946">Jacques Henri Bernardin de Saint-Pierre(1737-1814)</author>
+        <respStmt>
+          <resp>data capture</resp>
+          <name>Ebooks libres et gratuits contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>encoding</resp>
+          <name>Julia Dudar</name>
+        </respStmt>
+        <respStmt>
+          <resp>editor</resp>
+          <name>Julia Röttgermann</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="words">60490</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="https://mimotext.uni-trier.de">Mining and Modeling Text</publisher>
+        <distributor ref="https://github.com/mimotext/roman-dixhuit">Github</distributor>
+        <date>2020</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.en"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.ebooksgratuits.com/details.php?book=1682"/>
+        </bibl>
+        <bibl type="printSource">
+          <date>1787</date>
+        </bibl>
+        <bibl type="firstEdition">
+          <date>1787</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="eltec-1">
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="form">homodiegetic</term>
+          <term type="spelling">modern</term>
+          <term type="data-capture">semi-automatic transcription</term>
+        </keywords>
+      </textClass>
+      <textDesc>
+        <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+        <size key="medium" xmlns="http://distantreading.net/eltec/ns"/>
+        <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
+        <timeSlot key="T0" xmlns="http://distantreading.net/eltec/ns"/>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-05-22">Upgrade to ELTeC level-1</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter">
+        <head>Préambule</head>
+        <p>Voici l'édition <hi rend="italic">in-quarto</hi> de <hi rend="italic">Paul et Virginie</hi> que j'ai proposée par souscription. Elle a été imprimée chez P. Didot l'aîné, sur papier vélin d'Essonnes. Je l'ai enrichie de six planches dessinées et gravées par les plus grands maîtres, et j'y ai mis en tête mon portrait, que mes amis me
+          demandaient depuis longtemps.
+        </p>
+        <!-- Several paragraphs have been omitted here. -->
+      </div>
+      <div type="chapter">
+        <head>Paul et Virginie</head>
+        <p>Sur le côté oriental de la montagne qui s'élève derrière le Port-Louis de l'île de France, on voit, dans un terrain jadis cultivé, les ruines de deux petites cabanes. Elles sont situées presque au milieu d'un bassin formé par de grands rochers, qui n'a qu'une seule ouverture tournée au nord. On aperçoit à gauche la montagne appelée le morne de la Découverte, d'où l'on signale les vaisseaux qui abordent dans l'île, et au bas de cette montagne la ville nommée le Port-Louis ; à droite, le chemin qui mène du Port-Louis au quartier des Pamplemousses ; ensuite l'église de ce nom, qui s'élève avec ses avenues de bambous au milieu d'une grande plaine ; et plus loin une forêt qui s'étend jusqu'aux extrémités de l'île. On distingue devant soi, sur les bords de la mer, la baie du Tombeau ; un peu sur la droite, le cap Malheureux ; et au-delà, la pleine mer, où paraissent à fleur d'eau quelques îlots inhabités, entre autres le Coin-de-Mire, qui ressemble à un bastion au milieu des flots.
+        </p>
+        <p>À l'entrée de ce bassin, d'où l'on découvre tant d'objets, les échos de la montagne répètent sans cesse le bruit des vents qui agitent les forêts voisines, et le fracas des vagues qui brisent au loin sur les récifs ; mais au pied même des cabanes on n'entend plus aucun bruit, et on ne voit autour de soi que de grands rochers escarpés comme des murailles. Des bouquets d'arbres croissent à leurs bases, dans leurs fentes, et jusque sur leurs cimes, où s'arrêtent les nuages. Les pluies que leurs pitons attirent peignent souvent les couleurs de l'arc-en-ciel sur leurs flancs verts et bruns, et entretiennent à leurs pieds les sources dont se forme la petite rivière des Lataniers. Un grand silence règne dans leur enceinte, où tout est paisible, l'air, les eaux et la lumière. À peine l'écho y répète le murmure des palmistes qui croissent sur leurs plateaux élevés, et dont on voit les longues flèches toujours balancées par les vents. Un jour doux éclaire le fond de ce bassin, où le soleil ne luit qu'à midi ; mais dès l'aurore ses rayons en frappent le couronnement, dont les pics s'élevant au-dessus des ombres de la montagne, paraissent d'or et de pourpre sur l'azur des cieux.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

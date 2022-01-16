@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="book">Harry Potter and the Sorcerer's Stone</title>
+        <author>Rowling, Joan K.</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>For internal use only.</p>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body/>
+    <div type="chapter">
+      <head>CHAPTER ELEVEN - QUIDDITCH</head>
+      <p>As they entered November, the weather turned very cold. The mountains around the school became icy gray and the lake like chilled steel.</p>
+      <p><said who="Snape">"Library books are not to be taken outside the school,"</said> said Snape.</p>
+    </div>
+  </text>
+</TEI>

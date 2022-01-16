@@ -1,0 +1,27 @@
+## pandoc commands
+
+
+
+## to HTML (minimal) 
+
+pandoc -i artikel.md -o artikel.html --filter pandoc-citeproc --csl styles/visual-studies.csl --bibliography bibliographie.bib
+
+
+
+## to HTML (fancier)
+
+pandoc --filter pandoc-citeproc --csl styles/visual-studies.csl --bibliography bibliographie.bib --self-contained --number-sections --to html5 -i artikel.md -o artikel.html 
+
+
+## to HTML (fanciest)
+
+pandoc --filter pandoc-citeproc --csl styles/visual-studies.csl --bibliography bibliographie.bib --include-in-header=artikelstyle.css --toc --self-contained --number-sections --to html5 -i artikel.md -o artikel.html 
+
+
+
+
+## to PDF
+
+pandoc --metadata pagetitle="Wikipedia and Wikidata" --filter pandoc-citeproc --csl styles/chicago-note.csl --bibliography bibliographie.bib --number-sections -V geometry:margin=2.5cm --variable=geometry:a4paper -i artikel.md -o artikel.pdf
+
+
